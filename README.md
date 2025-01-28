@@ -1,6 +1,6 @@
 # Benchmark suite for MPS/Tensor Network simulation
-This repository propose a set of five configurable quantum circuits for evaluation
-of Nvidia's CUDA-Q simulators backends, targeting specifically plain Tensor Network
+This repository proposes a set of five configurable quantum circuits for evaluation
+of Nvidia's CUDA-Q simulator backends, targeting specifically plain Tensor Network
 and Matrix Product State (MPS) simulators.
 
 ## Usage
